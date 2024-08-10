@@ -1,17 +1,17 @@
 # Project Name
 
 ## Overview
-This project focuses on [brief description of the project goal, e.g., developing a chatbot for precision farming].
+This project focuses on creating a cost-effective platform using locational data and artificial intelligence to empower farmers with real-time, location-specific agricultural advice and emergency alerts. This solution is designed to enhance decision-making in farming by providing precise, data-driven insights tailored to the unique conditions of each farm.
 
-## Data Collection
 
-### How We Got the Data
-- **Sources**: We collected data from various sources, including SAR, GeoTIFF images, weather data, and soil moisture levels.
+### Where does the model get all our input data
+- **Sources**: We collected data from various sources, including SAR, weather data, and soil moisture levels.
 - **Methods**: Data was obtained using APIs, satellite imaging, and field sensors.
 
 ### Data Creation
 - **Processing**: The raw data was processed to extract relevant features. This included filtering, normalization, and categorization.
 - **Tools Used**: Python scripts using libraries like Pandas, NumPy, and GDAL were utilized for data processing.
+- **Generative Language Model**: We have used Generative language model script to generate a data with more than 300 conversations that can be used to fine the language model.
 
 ### Sample Data
 Here’s a sample of our processed data:
