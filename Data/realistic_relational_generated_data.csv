@@ -1,0 +1,1001 @@
+Soil Moisture,Temperature,Location,Previous Yield,Weather,Season,Previous Harvested Crop
+59,34,Madhya Pradesh,42,Rainy,Summer,Wheat
+43,35,Meghalaya,68,Rainy,Spring,Apple
+70,16,Maharashtra,40,Sunny,Winter,Grapes
+71,12,Tamil Nadu,57,Rainy,Winter,Tea
+47,27,Maharashtra,47,Rainy,Monsoon,Sugarcane
+63,23,Manipur,66,Stormy,Winter,Pineapple
+80,14,Meghalaya,62,Stormy,Winter,Apple
+,20,Tripura,38,Rainy,Autumn,Pulses
+76,32,Maharashtra,33,Sunny,Summer,Cotton
+74,31,Kerala,,Rainy,Monsoon,Coconut
+73,39,Karnataka,33,Sunny,Spring,Jowar
+65,29,Assam,31,Sunny,Autumn,Rice
+40,33,Uttar Pradesh,54,Rainy,Summer,Sugarcane
+73,25,West Bengal,65,Stormy,Autumn,Mustard
+64,21,Manipur,65,Sunny,Winter,Pulses
+45,27,Madhya Pradesh,62,Cloudy,Monsoon,Wheat
+,30,Mizoram,69,Stormy,Monsoon,Pulses
+57,29,Sikkim,,Rainy,Summer,Barley
+50,42,Nagaland,31,Sunny,Spring,Oilseeds
+72,24,Tripura,33,Rainy,Autumn,Pulses
+41,34,Telangana,66,Cloudy,Summer,Mango
+54,19,Rajasthan,67,Sunny,Winter,Turmeric
+41,28,Nagaland,51,Cloudy,Monsoon,Rice
+41,36,Sikkim,42,Cloudy,Spring,Ginger
+70,28,Telangana,69,Cloudy,Spring,Paddy
+43,24,Bihar,33,Cloudy,Winter,Wheat
+,29,Andhra Pradesh,57,Sunny,Autumn,Paddy
+76,31,Bihar,32,Rainy,Summer,Wheat
+,31,Tripura,48,Cloudy,Monsoon,Rubber
+,23,Kerala,51,Rainy,Autumn,Tea
+,25,Chhattisgarh,66,Rainy,Monsoon,Turmeric
+,40,Nagaland,41,Rainy,Spring,Ginger
+46,28,West Bengal,30,Rainy,Spring,Maize
+,28,Rajasthan,37,Sunny,Autumn,Turmeric
+79,31,Gujarat,60,Cloudy,Monsoon,Groundnut
+69,27,Uttar Pradesh,35,Stormy,Summer,Sugarcane
+51,40,Manipur,33,Stormy,Spring,Pulses
+,27,Uttar Pradesh,57,Sunny,Autumn,Maize
+79,26,Jharkhand,31,Rainy,Autumn,Rice
+,23,Tamil Nadu,52,Cloudy,Winter,Groundnut
+,18,Jharkhand,30,Sunny,Winter,Pulses
+52,35,Nagaland,,Sunny,Summer,Rice
+50,34,Punjab,55,Sunny,Spring,Wheat
+64,29,Madhya Pradesh,32,Stormy,Monsoon,Wheat
+43,34,Karnataka,42,Rainy,Spring,Sugarcane
+52,34,Gujarat,36,Cloudy,Summer,Groundnut
+42,32,Nagaland,37,Cloudy,Monsoon,Oilseeds
+55,22,Odisha,,Sunny,Autumn,Rice
+56,30,West Bengal,49,Cloudy,Summer,Rice
+,22,Gujarat,31,Rainy,Autumn,Tobacco
+55,34,Rajasthan,38,Rainy,Summer,Barley
+72,29,Chhattisgarh,49,Stormy,Monsoon,Turmeric
+62,27,Assam,31,Cloudy,Summer,Rice
+72,41,Arunachal Pradesh,43,Stormy,Spring,Rice
+,27,Andhra Pradesh,40,Rainy,Autumn,Paddy
+67,19,Uttar Pradesh,39,Rainy,Winter,Mustard
+80,28,Tripura,66,Rainy,Summer,Rubber
+65,29,Punjab,56,Cloudy,Monsoon,Gram
+44,19,West Bengal,42,Sunny,Winter,Maize
+80,29,Odisha,39,Rainy,Autumn,Rice
+47,27,Punjab,43,Cloudy,Summer,Gram
+70,25,Tripura,47,Stormy,Summer,Rice
+,20,Andhra Pradesh,36,Sunny,Winter,Paddy
+74,17,Chhattisgarh,61,Cloudy,Winter,Rice
+,33,Maharashtra,33,Stormy,Summer,Sugarcane
+51,12,Manipur,,Cloudy,Winter,Pineapple
+41,25,Punjab,,Cloudy,Autumn,Cotton
+78,22,Telangana,51,Stormy,Monsoon,Paddy
+44,25,Madhya Pradesh,45,Stormy,Summer,Soybean
+47,30,Karnataka,37,Sunny,Monsoon,Soybean
+60,33,Chhattisgarh,,Cloudy,Summer,Maize
+,13,Karnataka,48,Stormy,Winter,Jowar
+80,22,Bihar,53,Sunny,Winter,Maize
+51,35,Meghalaya,30,Stormy,Summer,Rice
+41,23,Bihar,57,Rainy,Winter,Maize
+80,13,Nagaland,41,Cloudy,Winter,Rice
+75,35,Arunachal Pradesh,41,Sunny,Spring,Tea
+54,28,Kerala,52,Cloudy,Autumn,Tea
+75,24,Karnataka,43,Cloudy,Autumn,Jowar
+,26,Tripura,32,Stormy,Autumn,Rice
+,28,Chhattisgarh,57,Rainy,Autumn,Maize
+50,25,Maharashtra,69,Rainy,Monsoon,Grapes
+57,12,Mizoram,45,Stormy,Winter,Rice
+40,34,West Bengal,64,Rainy,Spring,Mustard
+,28,Telangana,50,Rainy,Autumn,Mango
+,20,Manipur,32,Stormy,Autumn,Pineapple
+70,21,Rajasthan,44,Stormy,Autumn,Bajra
+,24,Karnataka,46,Rainy,Monsoon,Soybean
+69,27,Tripura,61,Rainy,Autumn,Rubber
+,30,Jharkhand,53,Stormy,Summer,Rice
+52,25,Jharkhand,54,Stormy,Summer,Pulses
+71,31,Gujarat,34,Cloudy,Spring,Groundnut
+41,32,Mizoram,49,Cloudy,Summer,Bamboo
+71,25,Punjab,62,Sunny,Autumn,Gram
+,20,Haryana,48,Rainy,Winter,Wheat
+,28,Rajasthan,49,Cloudy,Summer,Turmeric
+54,33,Punjab,48,Cloudy,Summer,Cotton
+48,14,Kerala,66,Stormy,Winter,Rubber
+65,34,Manipur,37,Sunny,Summer,Pulses
+50,31,Gujarat,58,Stormy,Monsoon,Groundnut
+72,32,Sikkim,56,Sunny,Monsoon,Ginger
+70,30,Maharashtra,57,Cloudy,Autumn,Sugarcane
+48,29,Sikkim,,Stormy,Spring,Cardamom
+52,25,Arunachal Pradesh,58,Rainy,Autumn,Rice
+56,24,Kerala,66,Stormy,Monsoon,Coconut
+67,29,Tripura,35,Cloudy,Spring,Pulses
+40,26,Tamil Nadu,66,Rainy,Summer,Groundnut
+70,30,Meghalaya,52,Stormy,Monsoon,Apple
+53,16,Kerala,52,Stormy,Winter,Rubber
+,35,Punjab,70,Rainy,Summer,Cotton
+45,28,Chhattisgarh,35,Stormy,Summer,Rice
+57,41,Assam,66,Cloudy,Spring,Rice
+80,23,Punjab,35,Stormy,Monsoon,Cotton
+,12,Karnataka,51,Cloudy,Winter,Sugarcane
+78,24,Tripura,57,Rainy,Autumn,Pulses
+72,28,Punjab,35,Sunny,Spring,Wheat
+47,23,Andhra Pradesh,66,Sunny,Autumn,Paddy
+56,30,Jharkhand,40,Stormy,Spring,Pulses
+41,24,Madhya Pradesh,49,Sunny,Autumn,Jowar
+64,19,Mizoram,53,Cloudy,Winter,Pulses
+52,29,Mizoram,38,Stormy,Summer,Bamboo
+78,29,Telangana,62,Sunny,Summer,Paddy
+68,42,Manipur,64,Cloudy,Spring,Pulses
+43,22,Telangana,38,Stormy,Winter,Cotton
+,21,Gujarat,65,Sunny,Winter,Groundnut
+75,27,Jharkhand,33,Cloudy,Autumn,Rice
+,28,Chhattisgarh,42,Sunny,Spring,Rice
+53,33,Jharkhand,65,Cloudy,Summer,Forest
+66,24,Kerala,64,Sunny,Autumn,Rubber
+75,19,Haryana,37,Sunny,Winter,Gram
+,23,Punjab,47,Sunny,Winter,Wheat
+46,31,Madhya Pradesh,,Stormy,Monsoon,Wheat
+45,27,Mizoram,54,Rainy,Summer,Pulses
+,33,Assam,,Sunny,Summer,Rice
+56,24,Andhra Pradesh,56,Rainy,Winter,Groundnut
+65,14,Haryana,48,Rainy,Winter,Wheat
+80,31,West Bengal,37,Rainy,Summer,Maize
+48,25,Manipur,33,Cloudy,Autumn,Rice
+,21,Andhra Pradesh,64,Sunny,Winter,Paddy
+64,25,West Bengal,,Cloudy,Winter,Maize
+55,25,Rajasthan,45,Rainy,Monsoon,Bajra
+,30,Assam,63,Rainy,Autumn,Sugarcane
+46,25,Sikkim,48,Cloudy,Monsoon,Ginger
+58,28,Andhra Pradesh,33,Sunny,Monsoon,Paddy
+54,31,Meghalaya,,Sunny,Monsoon,Rice
+,28,Manipur,67,Sunny,Summer,Rice
+76,14,Madhya Pradesh,63,Stormy,Winter,Soybean
+44,40,Gujarat,,Sunny,Spring,Cotton
+56,25,Gujarat,60,Sunny,Monsoon,Tobacco
+70,39,Karnataka,,Cloudy,Spring,Sugarcane
+40,28,Karnataka,59,Cloudy,Monsoon,Sugarcane
+52,12,Karnataka,32,Stormy,Winter,Soybean
+50,29,Jharkhand,48,Cloudy,Summer,Rice
+56,31,Assam,52,Rainy,Summer,Rice
+65,25,Kerala,54,Cloudy,Autumn,Rubber
+79,28,Tripura,68,Sunny,Monsoon,Pulses
+50,29,Arunachal Pradesh,43,Cloudy,Summer,Oilseeds
+43,25,Telangana,69,Cloudy,Summer,Cotton
+56,32,Telangana,66,Stormy,Summer,Paddy
+50,20,Haryana,53,Rainy,Winter,Gram
+41,26,Manipur,55,Sunny,Summer,Pulses
+56,40,Assam,34,Cloudy,Spring,Sugarcane
+71,34,Tripura,37,Stormy,Spring,Pulses
+51,24,Karnataka,32,Cloudy,Winter,Sugarcane
+,33,West Bengal,65,Sunny,Summer,Mustard
+43,32,Sikkim,50,Stormy,Summer,Barley
+,33,Maharashtra,51,Cloudy,Summer,Grapes
+45,25,Haryana,33,Stormy,Winter,Bajra
+57,18,Karnataka,31,Rainy,Winter,Jowar
+48,41,Rajasthan,64,Sunny,Spring,Bajra
+62,30,Nagaland,,Cloudy,Summer,Oilseeds
+58,30,Punjab,30,Sunny,Autumn,Gram
+74,22,Jharkhand,47,Stormy,Autumn,Forest
+44,30,Karnataka,32,Rainy,Autumn,Sugarcane
+,28,Mizoram,51,Rainy,Autumn,Rice
+63,39,Meghalaya,53,Sunny,Spring,Rice
+55,20,Manipur,50,Cloudy,Winter,Rice
+44,21,Haryana,41,Sunny,Autumn,Wheat
+,28,Rajasthan,55,Rainy,Monsoon,Turmeric
+80,25,West Bengal,61,Stormy,Monsoon,Mustard
+58,37,Bihar,53,Stormy,Spring,Maize
+42,28,Haryana,48,Cloudy,Autumn,Gram
+,32,Madhya Pradesh,61,Stormy,Summer,Wheat
+,40,Maharashtra,,Cloudy,Spring,Grapes
+54,29,Uttar Pradesh,35,Stormy,Monsoon,Sugarcane
+44,29,Rajasthan,43,Rainy,Autumn,Turmeric
+52,28,Rajasthan,51,Cloudy,Autumn,Barley
+53,25,Punjab,31,Rainy,Autumn,Wheat
+76,28,Sikkim,42,Cloudy,Autumn,Barley
+46,31,Sikkim,39,Stormy,Summer,Ginger
+54,25,Jharkhand,59,Stormy,Monsoon,Rice
+,13,Chhattisgarh,30,Stormy,Winter,Maize
+64,20,West Bengal,63,Sunny,Winter,Maize
+53,22,Telangana,,Cloudy,Autumn,Mango
+59,32,Rajasthan,45,Rainy,Summer,Barley
+,21,Karnataka,48,Rainy,Autumn,Soybean
+70,34,Haryana,69,Cloudy,Spring,Gram
+77,26,Karnataka,51,Stormy,Monsoon,Sugarcane
+45,19,Haryana,39,Cloudy,Winter,Wheat
+50,22,West Bengal,50,Rainy,Autumn,Rice
+56,32,Tripura,70,Sunny,Monsoon,Pulses
+54,29,Telangana,56,Cloudy,Summer,Paddy
+,27,Arunachal Pradesh,42,Stormy,Summer,Oilseeds
+58,20,Arunachal Pradesh,55,Cloudy,Autumn,Tea
+,29,Meghalaya,35,Rainy,Monsoon,Apple
+,15,Punjab,,Cloudy,Winter,Cotton
+46,26,Gujarat,,Cloudy,Monsoon,Tobacco
+75,21,Meghalaya,68,Cloudy,Winter,Potato
+44,27,Odisha,42,Stormy,Monsoon,Sugarcane
+71,30,Assam,63,Cloudy,Autumn,Sugarcane
+51,30,Manipur,70,Rainy,Monsoon,Pineapple
+44,29,Kerala,44,Rainy,Autumn,Tea
+,31,Punjab,65,Cloudy,Monsoon,Wheat
+64,22,Maharashtra,48,Rainy,Autumn,Grapes
+62,27,Maharashtra,53,Stormy,Autumn,Grapes
+44,16,Meghalaya,57,Cloudy,Winter,Potato
+53,23,Rajasthan,43,Sunny,Winter,Turmeric
+50,36,Tripura,55,Cloudy,Spring,Pulses
+57,28,Chhattisgarh,67,Rainy,Monsoon,Rice
+,33,Manipur,,Rainy,Summer,Pineapple
+,31,Punjab,34,Stormy,Monsoon,Wheat
+44,38,Kerala,66,Rainy,Spring,Coconut
+74,23,Meghalaya,61,Cloudy,Monsoon,Potato
+,20,Nagaland,39,Cloudy,Winter,Ginger
+62,32,Arunachal Pradesh,31,Cloudy,Summer,Oilseeds
+55,17,Andhra Pradesh,37,Stormy,Winter,Groundnut
+46,29,Nagaland,52,Cloudy,Monsoon,Oilseeds
+53,25,Tripura,,Rainy,Summer,Rubber
+74,30,Arunachal Pradesh,44,Stormy,Monsoon,Oilseeds
+72,27,Jharkhand,68,Sunny,Monsoon,Rice
+57,24,Arunachal Pradesh,38,Rainy,Monsoon,Tea
+69,23,Tripura,47,Rainy,Autumn,Pulses
+63,25,Arunachal Pradesh,37,Stormy,Autumn,Rice
+50,28,Karnataka,70,Rainy,Summer,Sugarcane
+43,25,Sikkim,35,Sunny,Summer,Cardamom
+72,20,Assam,70,Sunny,Autumn,Rice
+67,12,Chhattisgarh,68,Cloudy,Winter,Turmeric
+,31,West Bengal,62,Stormy,Monsoon,Maize
+,30,Kerala,33,Cloudy,Autumn,Coconut
+,30,Manipur,57,Rainy,Monsoon,Pulses
+43,30,Sikkim,,Rainy,Summer,Ginger
+,26,Bihar,55,Rainy,Summer,Maize
+49,29,Tripura,68,Cloudy,Spring,Rice
+,20,West Bengal,47,Cloudy,Winter,Rice
+66,32,Odisha,36,Cloudy,Monsoon,Rice
+54,16,Punjab,68,Sunny,Winter,Gram
+,28,Rajasthan,,Rainy,Summer,Bajra
+77,25,Karnataka,34,Stormy,Autumn,Soybean
+46,22,Tripura,,Rainy,Autumn,Pulses
+56,33,Gujarat,55,Rainy,Summer,Tobacco
+57,26,Madhya Pradesh,55,Stormy,Summer,Wheat
+47,39,Nagaland,34,Stormy,Spring,Oilseeds
+40,23,Tamil Nadu,36,Sunny,Winter,Cotton
+,34,Sikkim,39,Sunny,Spring,Cardamom
+58,27,Meghalaya,61,Cloudy,Summer,Rice
+61,32,Tripura,41,Rainy,Monsoon,Pulses
+45,21,Assam,38,Cloudy,Winter,Sugarcane
+50,25,Mizoram,31,Sunny,Summer,Rice
+,14,Chhattisgarh,58,Stormy,Winter,Turmeric
+45,30,Karnataka,57,Rainy,Autumn,Jowar
+56,13,Haryana,68,Stormy,Winter,Gram
+,20,Jharkhand,,Rainy,Autumn,Rice
+68,23,Nagaland,57,Cloudy,Monsoon,Oilseeds
+60,25,Rajasthan,,Cloudy,Monsoon,Turmeric
+40,27,Tripura,,Cloudy,Summer,Pulses
+62,22,Gujarat,36,Cloudy,Autumn,Groundnut
+64,24,Mizoram,41,Cloudy,Winter,Rice
+,35,Gujarat,53,Stormy,Spring,Groundnut
+,25,Nagaland,37,Stormy,Monsoon,Rice
+61,23,Manipur,61,Stormy,Autumn,Pineapple
+72,27,Meghalaya,,Rainy,Autumn,Apple
+58,28,Karnataka,55,Cloudy,Monsoon,Jowar
+80,36,Punjab,,Stormy,Spring,Cotton
+51,34,West Bengal,42,Rainy,Spring,Maize
+73,24,Madhya Pradesh,38,Stormy,Winter,Jowar
+63,34,Sikkim,64,Stormy,Spring,Ginger
+,30,West Bengal,43,Sunny,Spring,Maize
+78,24,Kerala,50,Rainy,Autumn,Tea
+74,28,Karnataka,42,Cloudy,Autumn,Sugarcane
+71,41,Meghalaya,65,Stormy,Spring,Potato
+61,38,Bihar,49,Stormy,Spring,Maize
+68,28,Mizoram,57,Stormy,Spring,Pulses
+66,22,Chhattisgarh,31,Rainy,Winter,Rice
+75,28,Karnataka,34,Cloudy,Monsoon,Jowar
+41,33,Punjab,53,Rainy,Spring,Gram
+,29,Sikkim,36,Cloudy,Spring,Barley
+76,20,Manipur,40,Sunny,Autumn,Rice
+,13,Odisha,44,Sunny,Winter,Pulses
+,28,Assam,55,Cloudy,Monsoon,Sugarcane
+65,23,Haryana,57,Sunny,Autumn,Bajra
+,22,Tamil Nadu,42,Rainy,Winter,Cotton
+,42,Jharkhand,45,Sunny,Spring,Pulses
+,25,Jharkhand,45,Rainy,Summer,Forest
+41,28,Gujarat,33,Rainy,Autumn,Cotton
+43,34,Tripura,,Rainy,Summer,Rubber
+,21,Mizoram,56,Stormy,Autumn,Pulses
+57,17,Meghalaya,,Sunny,Winter,Apple
+52,33,Assam,41,Rainy,Spring,Sugarcane
+47,24,Sikkim,66,Cloudy,Autumn,Cardamom
+75,38,Telangana,33,Stormy,Spring,Paddy
+71,12,Jharkhand,59,Cloudy,Winter,Rice
+51,32,Gujarat,32,Stormy,Summer,Cotton
+72,31,Tamil Nadu,57,Sunny,Spring,Tea
+40,12,Bihar,68,Stormy,Winter,Pulses
+69,42,Sikkim,30,Rainy,Spring,Barley
+55,33,Madhya Pradesh,30,Sunny,Summer,Jowar
+,35,Kerala,60,Rainy,Spring,Tea
+60,28,Gujarat,40,Rainy,Monsoon,Groundnut
+74,29,Chhattisgarh,40,Rainy,Spring,Turmeric
+69,24,Uttar Pradesh,30,Rainy,Monsoon,Sugarcane
+,14,Rajasthan,69,Rainy,Winter,Barley
+50,38,Bihar,70,Stormy,Spring,Wheat
+43,39,Karnataka,51,Cloudy,Spring,Jowar
+59,27,Karnataka,66,Sunny,Summer,Sugarcane
+79,22,Uttar Pradesh,41,Stormy,Monsoon,Mustard
+67,42,Chhattisgarh,67,Rainy,Spring,Rice
+45,16,Tamil Nadu,38,Cloudy,Winter,Tea
+45,35,Telangana,32,Stormy,Spring,Paddy
+,23,Arunachal Pradesh,61,Stormy,Monsoon,Rice
+80,32,Uttar Pradesh,33,Cloudy,Summer,Maize
+64,18,Sikkim,67,Stormy,Winter,Cardamom
+50,28,Odisha,69,Cloudy,Autumn,Sugarcane
+74,28,Mizoram,57,Cloudy,Summer,Rice
+,12,Tamil Nadu,34,Sunny,Winter,Tea
+59,24,Tamil Nadu,31,Cloudy,Autumn,Groundnut
+58,23,Nagaland,35,Rainy,Monsoon,Oilseeds
+67,33,Jharkhand,,Cloudy,Spring,Rice
+57,29,Manipur,40,Rainy,Summer,Pineapple
+,25,Punjab,46,Stormy,Summer,Cotton
+43,30,Kerala,65,Rainy,Monsoon,Rubber
+76,28,Karnataka,31,Cloudy,Summer,Soybean
+72,40,Jharkhand,53,Sunny,Spring,Rice
+45,31,Chhattisgarh,61,Cloudy,Summer,Rice
+71,25,Telangana,62,Sunny,Autumn,Paddy
+40,29,Karnataka,51,Rainy,Spring,Soybean
+40,17,Punjab,49,Cloudy,Winter,Gram
+48,24,Punjab,30,Sunny,Monsoon,Cotton
+53,33,Assam,38,Cloudy,Summer,Tea
+64,26,Madhya Pradesh,36,Cloudy,Monsoon,Soybean
+45,26,Haryana,41,Stormy,Autumn,Bajra
+48,31,Odisha,60,Cloudy,Monsoon,Sugarcane
+69,32,West Bengal,38,Stormy,Monsoon,Rice
+44,29,Arunachal Pradesh,57,Rainy,Summer,Rice
+73,23,Mizoram,49,Stormy,Autumn,Rice
+61,30,Meghalaya,,Rainy,Monsoon,Apple
+79,26,Andhra Pradesh,30,Cloudy,Monsoon,Paddy
+77,29,Gujarat,39,Rainy,Spring,Tobacco
+67,21,Tamil Nadu,34,Stormy,Winter,Cotton
+,12,Manipur,61,Stormy,Winter,Pineapple
+,29,Meghalaya,47,Cloudy,Autumn,Apple
+66,24,Mizoram,35,Cloudy,Monsoon,Bamboo
+42,28,Chhattisgarh,44,Cloudy,Monsoon,Maize
+71,32,West Bengal,49,Sunny,Summer,Rice
+48,24,Jharkhand,55,Rainy,Winter,Forest
+74,25,Maharashtra,40,Stormy,Winter,Sugarcane
+,27,Karnataka,70,Cloudy,Summer,Jowar
+47,27,Bihar,53,Sunny,Monsoon,Maize
+43,29,Andhra Pradesh,56,Rainy,Monsoon,Paddy
+64,29,Uttar Pradesh,33,Cloudy,Summer,Maize
+51,38,Tripura,66,Cloudy,Spring,Rubber
+70,22,Karnataka,,Cloudy,Winter,Sugarcane
+,24,Gujarat,34,Sunny,Winter,Cotton
+,20,Bihar,47,Sunny,Autumn,Wheat
+53,28,Tripura,47,Stormy,Spring,Rice
+50,39,West Bengal,67,Cloudy,Spring,Mustard
+70,27,Sikkim,50,Stormy,Summer,Cardamom
+45,32,Arunachal Pradesh,53,Cloudy,Spring,Oilseeds
+50,15,Uttar Pradesh,50,Stormy,Winter,Maize
+59,24,Sikkim,50,Rainy,Autumn,Ginger
+48,37,Uttar Pradesh,55,Sunny,Spring,Maize
+74,22,Meghalaya,41,Stormy,Winter,Apple
+58,40,West Bengal,40,Rainy,Spring,Maize
+75,24,Karnataka,64,Rainy,Monsoon,Soybean
+,25,Andhra Pradesh,54,Cloudy,Monsoon,Paddy
+60,25,Tripura,54,Rainy,Autumn,Rubber
+58,28,Odisha,68,Stormy,Autumn,Pulses
+74,32,Odisha,47,Stormy,Spring,Sugarcane
+61,28,Odisha,55,Cloudy,Autumn,Rice
+,36,Madhya Pradesh,37,Stormy,Spring,Jowar
+66,34,Jharkhand,39,Sunny,Summer,Rice
+52,27,Telangana,65,Sunny,Autumn,Cotton
+70,23,Meghalaya,43,Rainy,Winter,Potato
+66,34,Assam,,Sunny,Summer,Rice
+44,22,Odisha,41,Sunny,Monsoon,Sugarcane
+79,14,Telangana,38,Stormy,Winter,Cotton
+49,29,Odisha,46,Rainy,Summer,Sugarcane
+,21,Karnataka,54,Stormy,Winter,Sugarcane
+55,17,Haryana,49,Stormy,Winter,Bajra
+40,38,Tamil Nadu,33,Cloudy,Spring,Tea
+72,38,Meghalaya,59,Sunny,Spring,Potato
+65,23,Uttar Pradesh,63,Cloudy,Winter,Maize
+71,26,Kerala,58,Sunny,Summer,Coconut
+65,34,Uttar Pradesh,46,Rainy,Summer,Mustard
+78,29,Rajasthan,68,Stormy,Autumn,Turmeric
+53,32,Telangana,66,Sunny,Summer,Paddy
+,19,Maharashtra,37,Rainy,Winter,Sugarcane
+63,27,Mizoram,45,Cloudy,Summer,Rice
+66,28,Manipur,60,Rainy,Spring,Pineapple
+,22,West Bengal,40,Sunny,Autumn,Rice
+72,16,West Bengal,67,Stormy,Winter,Maize
+40,27,Gujarat,65,Cloudy,Summer,Cotton
+48,36,Jharkhand,47,Cloudy,Spring,Rice
+,26,Mizoram,46,Sunny,Summer,Bamboo
+53,31,Maharashtra,57,Stormy,Monsoon,Cotton
+,23,Odisha,47,Rainy,Autumn,Sugarcane
+53,23,Manipur,55,Rainy,Autumn,Pineapple
+55,36,West Bengal,36,Sunny,Spring,Maize
+60,28,Madhya Pradesh,58,Rainy,Summer,Jowar
+,34,Punjab,,Sunny,Summer,Cotton
+,22,Mizoram,38,Cloudy,Autumn,Pulses
+46,28,Sikkim,51,Stormy,Autumn,Ginger
+48,30,Chhattisgarh,48,Cloudy,Monsoon,Turmeric
+47,28,Rajasthan,69,Stormy,Monsoon,Barley
+49,30,Rajasthan,,Stormy,Summer,Barley
+63,33,Maharashtra,44,Stormy,Spring,Grapes
+52,39,Mizoram,64,Rainy,Spring,Bamboo
+41,25,Mizoram,42,Cloudy,Summer,Pulses
+78,20,West Bengal,51,Cloudy,Autumn,Maize
+78,28,Tripura,53,Rainy,Summer,Rubber
+,33,West Bengal,66,Sunny,Summer,Rice
+71,14,Gujarat,69,Stormy,Winter,Groundnut
+74,23,Gujarat,36,Sunny,Autumn,Cotton
+41,29,Sikkim,61,Sunny,Monsoon,Cardamom
+77,12,Arunachal Pradesh,47,Rainy,Winter,Rice
+,24,Kerala,57,Stormy,Autumn,Rubber
+,22,Maharashtra,65,Sunny,Autumn,Grapes
+61,22,Manipur,41,Cloudy,Monsoon,Pineapple
+80,24,Telangana,,Cloudy,Winter,Cotton
+74,36,Arunachal Pradesh,62,Sunny,Spring,Oilseeds
+44,22,Meghalaya,66,Stormy,Autumn,Potato
+52,12,Manipur,38,Stormy,Winter,Rice
+65,33,Nagaland,35,Sunny,Spring,Ginger
+50,15,Uttar Pradesh,68,Cloudy,Winter,Mustard
+,22,Assam,58,Rainy,Monsoon,Rice
+,35,Jharkhand,,Rainy,Spring,Pulses
+52,28,Rajasthan,39,Cloudy,Spring,Barley
+,28,Sikkim,44,Sunny,Autumn,Cardamom
+41,30,West Bengal,32,Rainy,Monsoon,Maize
+65,42,Odisha,30,Stormy,Spring,Rice
+75,28,Sikkim,37,Cloudy,Summer,Ginger
+51,25,Madhya Pradesh,48,Stormy,Winter,Soybean
+72,23,Meghalaya,52,Sunny,Autumn,Apple
+76,34,Assam,52,Rainy,Summer,Tea
+70,20,Haryana,51,Stormy,Autumn,Wheat
+,35,Mizoram,59,Cloudy,Spring,Bamboo
+67,27,Arunachal Pradesh,52,Stormy,Autumn,Tea
+52,31,Uttar Pradesh,30,Rainy,Spring,Maize
+58,30,Haryana,57,Rainy,Summer,Bajra
+66,27,Gujarat,63,Sunny,Monsoon,Cotton
+79,28,Kerala,40,Sunny,Summer,Rubber
+72,34,Punjab,39,Stormy,Summer,Cotton
+78,19,Gujarat,41,Sunny,Winter,Groundnut
+58,24,Odisha,40,Cloudy,Autumn,Rice
+70,25,Telangana,43,Cloudy,Autumn,Cotton
+,32,Maharashtra,,Rainy,Summer,Grapes
+74,12,Nagaland,46,Rainy,Winter,Oilseeds
+59,22,Punjab,64,Cloudy,Winter,Wheat
+,37,Arunachal Pradesh,45,Stormy,Spring,Oilseeds
+41,28,Manipur,,Stormy,Monsoon,Pulses
+56,23,Chhattisgarh,30,Rainy,Autumn,Turmeric
+65,28,Rajasthan,69,Rainy,Spring,Bajra
+59,33,Chhattisgarh,45,Cloudy,Spring,Turmeric
+73,29,Tripura,31,Stormy,Monsoon,Rice
+64,29,Haryana,32,Cloudy,Summer,Bajra
+68,33,Andhra Pradesh,,Sunny,Summer,Groundnut
+70,14,Nagaland,43,Sunny,Winter,Rice
+80,25,Tripura,53,Rainy,Monsoon,Pulses
+67,40,Meghalaya,34,Sunny,Spring,Rice
+58,29,Mizoram,41,Stormy,Summer,Bamboo
+73,22,Haryana,69,Rainy,Winter,Bajra
+41,30,Tripura,59,Rainy,Monsoon,Pulses
+,27,Chhattisgarh,49,Rainy,Summer,Rice
+47,30,Rajasthan,54,Rainy,Autumn,Bajra
+41,22,Punjab,46,Stormy,Autumn,Cotton
+46,24,Nagaland,56,Sunny,Autumn,Ginger
+66,33,Mizoram,63,Stormy,Summer,Bamboo
+,22,Nagaland,39,Sunny,Monsoon,Oilseeds
+,32,Tripura,,Stormy,Monsoon,Rubber
+,25,Maharashtra,70,Cloudy,Summer,Grapes
+66,24,Madhya Pradesh,36,Rainy,Winter,Wheat
+48,19,Manipur,50,Stormy,Winter,Pineapple
+61,28,Tripura,,Sunny,Monsoon,Pulses
+53,29,Bihar,51,Stormy,Autumn,Wheat
+51,23,Tamil Nadu,33,Stormy,Winter,Groundnut
+,25,Jharkhand,34,Rainy,Autumn,Pulses
+55,21,Odisha,49,Rainy,Autumn,Sugarcane
+44,31,Maharashtra,37,Rainy,Summer,Cotton
+66,31,Andhra Pradesh,,Sunny,Spring,Paddy
+53,33,Madhya Pradesh,54,Rainy,Summer,Jowar
+,28,Rajasthan,,Sunny,Summer,Barley
+58,25,Manipur,63,Sunny,Winter,Rice
+50,23,Jharkhand,,Sunny,Winter,Forest
+69,36,Tripura,69,Sunny,Spring,Rubber
+67,33,Uttar Pradesh,43,Cloudy,Summer,Mustard
+71,16,Karnataka,49,Sunny,Winter,Soybean
+41,40,West Bengal,45,Stormy,Spring,Rice
+,41,Arunachal Pradesh,69,Rainy,Spring,Rice
+44,15,Rajasthan,69,Stormy,Winter,Bajra
+66,27,Andhra Pradesh,31,Cloudy,Summer,Paddy
+47,15,Uttar Pradesh,32,Cloudy,Winter,Mustard
+79,25,Tripura,68,Cloudy,Winter,Rice
+61,27,Meghalaya,,Stormy,Summer,Potato
+55,29,Chhattisgarh,,Cloudy,Monsoon,Turmeric
+52,18,Telangana,58,Stormy,Winter,Cotton
+,31,Madhya Pradesh,57,Sunny,Spring,Soybean
+63,13,Sikkim,59,Cloudy,Winter,Cardamom
+67,23,Andhra Pradesh,32,Stormy,Winter,Groundnut
+71,22,Odisha,31,Rainy,Monsoon,Sugarcane
+,35,Kerala,,Stormy,Summer,Tea
+77,32,Rajasthan,66,Cloudy,Monsoon,Barley
+65,33,Karnataka,67,Cloudy,Spring,Jowar
+74,33,Maharashtra,61,Cloudy,Spring,Grapes
+60,32,Karnataka,44,Cloudy,Summer,Jowar
+80,23,Odisha,64,Rainy,Autumn,Rice
+56,31,Meghalaya,48,Cloudy,Summer,Rice
+,28,Maharashtra,,Rainy,Spring,Grapes
+49,25,Assam,34,Sunny,Winter,Sugarcane
+42,28,Andhra Pradesh,,Stormy,Autumn,Paddy
+45,35,Madhya Pradesh,,Sunny,Spring,Soybean
+,12,Odisha,66,Sunny,Winter,Pulses
+,23,Haryana,51,Cloudy,Autumn,Bajra
+60,41,West Bengal,67,Rainy,Spring,Maize
+61,20,Maharashtra,66,Cloudy,Autumn,Sugarcane
+45,19,West Bengal,70,Sunny,Winter,Maize
+52,35,Sikkim,44,Rainy,Summer,Barley
+78,32,Mizoram,48,Rainy,Monsoon,Bamboo
+71,28,Assam,,Rainy,Autumn,Rice
+70,26,Jharkhand,45,Cloudy,Autumn,Pulses
+71,29,Maharashtra,41,Rainy,Summer,Grapes
+40,27,Andhra Pradesh,30,Cloudy,Summer,Groundnut
+77,23,Nagaland,67,Sunny,Winter,Rice
+78,42,Nagaland,53,Rainy,Spring,Ginger
+69,27,Nagaland,53,Rainy,Autumn,Rice
+74,30,Punjab,52,Sunny,Spring,Wheat
+64,32,Odisha,65,Sunny,Monsoon,Rice
+,21,Sikkim,32,Sunny,Winter,Ginger
+54,23,Bihar,39,Cloudy,Autumn,Pulses
+48,30,Kerala,69,Sunny,Autumn,Tea
+69,40,Haryana,38,Rainy,Spring,Gram
+54,27,Chhattisgarh,57,Sunny,Monsoon,Rice
+57,23,Tamil Nadu,47,Rainy,Autumn,Cotton
+66,38,Arunachal Pradesh,55,Rainy,Spring,Rice
+46,26,West Bengal,57,Stormy,Autumn,Rice
+72,28,Haryana,33,Stormy,Summer,Gram
+46,21,Telangana,63,Cloudy,Autumn,Cotton
+,25,Andhra Pradesh,69,Rainy,Summer,Paddy
+55,13,Karnataka,59,Cloudy,Winter,Jowar
+61,27,Haryana,58,Stormy,Monsoon,Gram
+46,36,Telangana,64,Rainy,Spring,Cotton
+76,39,Sikkim,41,Stormy,Spring,Cardamom
+54,29,Tripura,60,Stormy,Summer,Rice
+75,41,Manipur,,Rainy,Spring,Rice
+,19,Madhya Pradesh,47,Rainy,Winter,Jowar
+54,31,Chhattisgarh,66,Cloudy,Monsoon,Rice
+42,26,Assam,65,Cloudy,Summer,Sugarcane
+49,13,Gujarat,46,Stormy,Winter,Tobacco
+45,26,Chhattisgarh,34,Stormy,Autumn,Maize
+,31,Tamil Nadu,69,Sunny,Spring,Tea
+,17,Meghalaya,36,Sunny,Winter,Potato
+80,24,Haryana,64,Stormy,Autumn,Wheat
+80,24,Gujarat,44,Rainy,Autumn,Groundnut
+,30,Bihar,67,Stormy,Monsoon,Pulses
+53,30,Andhra Pradesh,48,Sunny,Spring,Groundnut
+52,31,Meghalaya,36,Stormy,Summer,Apple
+70,40,Karnataka,,Sunny,Spring,Jowar
+47,30,Kerala,55,Stormy,Spring,Rubber
+58,30,Rajasthan,68,Rainy,Monsoon,Bajra
+60,32,West Bengal,59,Cloudy,Summer,Mustard
+,20,Uttar Pradesh,37,Cloudy,Winter,Mustard
+41,35,Chhattisgarh,36,Cloudy,Summer,Turmeric
+,25,Arunachal Pradesh,,Rainy,Summer,Oilseeds
+,29,Tamil Nadu,67,Rainy,Monsoon,Groundnut
+40,38,Karnataka,43,Stormy,Spring,Sugarcane
+77,20,Telangana,41,Cloudy,Autumn,Cotton
+42,30,Karnataka,32,Rainy,Autumn,Sugarcane
+68,37,Punjab,,Cloudy,Spring,Wheat
+74,20,Tripura,43,Stormy,Winter,Rubber
+63,16,Sikkim,33,Rainy,Winter,Cardamom
+,42,Bihar,45,Rainy,Spring,Wheat
+62,29,Arunachal Pradesh,,Stormy,Summer,Rice
+75,12,Gujarat,67,Sunny,Winter,Tobacco
+49,19,West Bengal,59,Rainy,Winter,Rice
+71,42,Tamil Nadu,,Sunny,Spring,Groundnut
+,25,Arunachal Pradesh,58,Stormy,Monsoon,Tea
+71,29,Andhra Pradesh,32,Rainy,Summer,Paddy
+,34,Tripura,57,Sunny,Spring,Rubber
+48,31,Madhya Pradesh,40,Stormy,Monsoon,Wheat
+41,28,Tamil Nadu,67,Sunny,Summer,Cotton
+80,28,Chhattisgarh,49,Sunny,Spring,Maize
+71,33,Madhya Pradesh,42,Cloudy,Summer,Soybean
+,19,Chhattisgarh,43,Sunny,Winter,Rice
+59,24,Jharkhand,37,Cloudy,Winter,Pulses
+71,13,Uttar Pradesh,39,Sunny,Winter,Mustard
+75,37,Assam,64,Sunny,Spring,Rice
+70,31,Bihar,,Cloudy,Monsoon,Maize
+60,25,Rajasthan,38,Stormy,Monsoon,Turmeric
+69,34,Gujarat,43,Rainy,Summer,Groundnut
+,25,Tripura,69,Cloudy,Monsoon,Rice
+72,19,Andhra Pradesh,33,Sunny,Winter,Groundnut
+,28,Madhya Pradesh,35,Sunny,Spring,Wheat
+48,30,Assam,35,Cloudy,Autumn,Rice
+80,36,Chhattisgarh,37,Stormy,Spring,Maize
+73,17,Sikkim,36,Cloudy,Winter,Cardamom
+,29,Punjab,55,Cloudy,Autumn,Wheat
+69,25,Mizoram,47,Stormy,Winter,Rice
+71,19,Chhattisgarh,40,Stormy,Winter,Turmeric
+67,29,Manipur,39,Sunny,Spring,Rice
+41,33,Telangana,65,Stormy,Summer,Mango
+44,31,Tamil Nadu,67,Sunny,Monsoon,Tea
+45,25,Meghalaya,65,Rainy,Winter,Apple
+70,32,Andhra Pradesh,56,Sunny,Monsoon,Groundnut
+70,27,Nagaland,,Rainy,Autumn,Ginger
+74,31,Odisha,31,Rainy,Monsoon,Pulses
+51,21,Odisha,62,Rainy,Autumn,Rice
+,41,Manipur,63,Rainy,Spring,Pulses
+,25,Bihar,52,Rainy,Autumn,Wheat
+40,24,Kerala,,Cloudy,Autumn,Rubber
+,21,Uttar Pradesh,43,Stormy,Winter,Sugarcane
+,18,Jharkhand,41,Stormy,Winter,Pulses
+61,14,Andhra Pradesh,68,Cloudy,Winter,Groundnut
+,22,Manipur,62,Sunny,Winter,Pineapple
+,25,Sikkim,,Rainy,Summer,Barley
+,21,Uttar Pradesh,39,Sunny,Winter,Mustard
+42,24,Madhya Pradesh,34,Stormy,Winter,Wheat
+60,24,Assam,69,Sunny,Monsoon,Sugarcane
+63,30,Telangana,40,Sunny,Spring,Cotton
+42,32,Punjab,69,Sunny,Monsoon,Cotton
+,28,Haryana,50,Cloudy,Summer,Bajra
+75,35,Haryana,61,Stormy,Spring,Wheat
+41,35,Rajasthan,62,Rainy,Summer,Barley
+74,35,Gujarat,32,Sunny,Spring,Tobacco
+70,31,Jharkhand,44,Sunny,Summer,Rice
+,27,Sikkim,57,Rainy,Monsoon,Barley
+73,31,Odisha,68,Sunny,Summer,Sugarcane
+75,33,Uttar Pradesh,40,Sunny,Spring,Mustard
+76,33,Mizoram,58,Stormy,Spring,Rice
+,28,West Bengal,50,Cloudy,Monsoon,Maize
+,29,Bihar,45,Rainy,Autumn,Wheat
+,34,Rajasthan,38,Sunny,Summer,Bajra
+53,31,Gujarat,33,Cloudy,Spring,Groundnut
+41,28,Andhra Pradesh,39,Rainy,Summer,Mango
+42,21,Gujarat,39,Cloudy,Winter,Tobacco
+79,22,Punjab,65,Stormy,Monsoon,Gram
+78,33,Maharashtra,36,Sunny,Spring,Cotton
+77,25,Maharashtra,36,Cloudy,Winter,Sugarcane
+,36,Nagaland,32,Rainy,Spring,Ginger
+64,42,Jharkhand,38,Sunny,Spring,Forest
+68,30,Bihar,32,Sunny,Monsoon,Wheat
+41,23,Madhya Pradesh,47,Cloudy,Monsoon,Jowar
+69,25,Punjab,,Rainy,Summer,Cotton
+72,25,Tamil Nadu,,Stormy,Autumn,Tea
+55,23,Mizoram,54,Rainy,Autumn,Pulses
+53,41,Telangana,,Rainy,Spring,Cotton
+54,32,Nagaland,30,Stormy,Summer,Ginger
+56,25,Tamil Nadu,58,Sunny,Monsoon,Tea
+52,27,Karnataka,,Rainy,Summer,Soybean
+50,27,Arunachal Pradesh,37,Cloudy,Monsoon,Tea
+,28,Andhra Pradesh,62,Sunny,Summer,Paddy
+42,24,Tamil Nadu,35,Sunny,Monsoon,Tea
+,17,Kerala,48,Stormy,Winter,Coconut
+47,31,Tamil Nadu,31,Cloudy,Summer,Groundnut
+73,23,Jharkhand,56,Stormy,Monsoon,Forest
+49,40,Jharkhand,54,Rainy,Spring,Rice
+44,30,Uttar Pradesh,69,Rainy,Monsoon,Mustard
+64,24,Manipur,51,Cloudy,Monsoon,Rice
+45,39,Arunachal Pradesh,48,Rainy,Spring,Tea
+69,20,Odisha,40,Stormy,Winter,Pulses
+,30,Mizoram,,Cloudy,Monsoon,Rice
+41,27,Bihar,58,Sunny,Autumn,Pulses
+,24,Tripura,63,Stormy,Monsoon,Rice
+72,28,Meghalaya,65,Rainy,Monsoon,Potato
+78,30,Manipur,42,Cloudy,Summer,Pulses
+48,31,Assam,68,Rainy,Spring,Rice
+,30,Nagaland,67,Cloudy,Monsoon,Oilseeds
+66,22,Chhattisgarh,66,Cloudy,Autumn,Turmeric
+79,14,Andhra Pradesh,35,Sunny,Winter,Paddy
+55,27,Tripura,54,Cloudy,Monsoon,Rubber
+72,28,Kerala,69,Rainy,Autumn,Rubber
+80,34,Tripura,49,Rainy,Summer,Pulses
+80,24,Nagaland,45,Rainy,Monsoon,Rice
+77,17,Meghalaya,,Rainy,Winter,Apple
+62,28,Maharashtra,58,Sunny,Autumn,Grapes
+46,25,Karnataka,43,Rainy,Winter,Jowar
+,41,Arunachal Pradesh,,Stormy,Spring,Oilseeds
+49,36,Arunachal Pradesh,37,Stormy,Spring,Oilseeds
+,22,Haryana,51,Rainy,Monsoon,Bajra
+,28,Punjab,67,Cloudy,Autumn,Wheat
+,30,Manipur,39,Rainy,Monsoon,Pulses
+76,28,West Bengal,56,Rainy,Summer,Mustard
+80,34,Assam,61,Stormy,Summer,Tea
+,31,Meghalaya,56,Rainy,Monsoon,Apple
+53,28,Nagaland,70,Stormy,Spring,Rice
+76,14,Meghalaya,57,Stormy,Winter,Rice
+66,35,Karnataka,66,Cloudy,Summer,Sugarcane
+,12,West Bengal,35,Stormy,Winter,Mustard
+43,37,Mizoram,40,Sunny,Spring,Rice
+46,23,Jharkhand,49,Stormy,Autumn,Rice
+47,35,Haryana,70,Sunny,Spring,Gram
+50,25,Bihar,46,Rainy,Autumn,Wheat
+55,25,Andhra Pradesh,,Rainy,Winter,Groundnut
+49,17,Sikkim,33,Cloudy,Winter,Cardamom
+73,28,Haryana,,Rainy,Spring,Wheat
+74,30,Andhra Pradesh,32,Stormy,Monsoon,Paddy
+77,20,Maharashtra,59,Cloudy,Autumn,Cotton
+59,14,Tripura,35,Cloudy,Winter,Rubber
+55,40,Sikkim,40,Cloudy,Spring,Barley
+51,25,Andhra Pradesh,59,Sunny,Autumn,Mango
+69,39,Punjab,,Sunny,Spring,Cotton
+78,27,Madhya Pradesh,51,Cloudy,Summer,Jowar
+68,28,Kerala,46,Rainy,Autumn,Coconut
+50,25,West Bengal,30,Rainy,Autumn,Maize
+42,30,Tamil Nadu,,Cloudy,Autumn,Tea
+63,38,Kerala,61,Cloudy,Spring,Rubber
+46,27,Madhya Pradesh,68,Stormy,Summer,Wheat
+,28,Chhattisgarh,60,Stormy,Spring,Rice
+,29,Bihar,45,Rainy,Autumn,Pulses
+41,27,Kerala,31,Cloudy,Summer,Rubber
+57,30,Andhra Pradesh,49,Stormy,Spring,Paddy
+64,14,Manipur,46,Cloudy,Winter,Pulses
+72,38,Jharkhand,59,Stormy,Spring,Forest
+56,26,Odisha,34,Rainy,Summer,Rice
+,30,West Bengal,35,Rainy,Summer,Mustard
+49,20,Nagaland,36,Stormy,Winter,Rice
+70,17,Arunachal Pradesh,41,Rainy,Winter,Rice
+62,21,Madhya Pradesh,,Sunny,Winter,Soybean
+54,28,Haryana,37,Cloudy,Summer,Bajra
+,29,Meghalaya,41,Sunny,Summer,Rice
+,23,Odisha,43,Cloudy,Monsoon,Sugarcane
+57,19,Nagaland,36,Sunny,Winter,Oilseeds
+58,29,Gujarat,67,Sunny,Monsoon,Tobacco
+61,25,Bihar,64,Rainy,Monsoon,Wheat
+43,29,Tripura,68,Rainy,Monsoon,Rice
+50,22,Odisha,55,Sunny,Autumn,Rice
+55,25,Gujarat,39,Cloudy,Summer,Tobacco
+80,19,Maharashtra,,Rainy,Winter,Cotton
+,22,Tamil Nadu,31,Stormy,Winter,Cotton
+47,28,Telangana,43,Cloudy,Autumn,Cotton
+45,31,Rajasthan,48,Sunny,Spring,Turmeric
+41,28,Meghalaya,57,Cloudy,Spring,Potato
+58,27,Arunachal Pradesh,37,Cloudy,Monsoon,Rice
+41,29,Bihar,70,Stormy,Spring,Pulses
+42,24,Manipur,63,Sunny,Monsoon,Pineapple
+53,41,Nagaland,38,Sunny,Spring,Rice
+70,42,Karnataka,34,Rainy,Spring,Jowar
+,28,Uttar Pradesh,67,Stormy,Monsoon,Maize
+49,31,Arunachal Pradesh,40,Sunny,Spring,Rice
+62,31,Maharashtra,44,Rainy,Monsoon,Sugarcane
+,30,West Bengal,69,Sunny,Summer,Rice
+60,20,Bihar,67,Stormy,Autumn,Maize
+56,31,West Bengal,63,Cloudy,Summer,Maize
+65,39,Gujarat,36,Stormy,Spring,Cotton
+,41,Manipur,66,Cloudy,Spring,Rice
+46,20,Bihar,,Stormy,Autumn,Wheat
+57,25,Madhya Pradesh,54,Rainy,Monsoon,Wheat
+74,24,Sikkim,33,Cloudy,Autumn,Barley
+72,27,Tamil Nadu,48,Rainy,Autumn,Cotton
+55,24,Uttar Pradesh,30,Cloudy,Autumn,Maize
+60,35,Uttar Pradesh,55,Cloudy,Spring,Maize
+61,32,Andhra Pradesh,65,Sunny,Spring,Mango
+73,26,Andhra Pradesh,34,Stormy,Summer,Mango
+80,30,Nagaland,57,Rainy,Summer,Rice
+68,24,Odisha,51,Rainy,Monsoon,Pulses
+43,32,Mizoram,31,Cloudy,Monsoon,Rice
+74,22,Odisha,51,Sunny,Autumn,Sugarcane
+52,32,Haryana,43,Cloudy,Spring,Bajra
+79,35,Arunachal Pradesh,31,Rainy,Summer,Tea
+69,27,Meghalaya,45,Sunny,Autumn,Potato
+63,21,Gujarat,65,Stormy,Autumn,Groundnut
+75,34,Haryana,39,Sunny,Spring,Bajra
+46,19,Sikkim,48,Cloudy,Winter,Ginger
+,22,Nagaland,52,Cloudy,Autumn,Oilseeds
+66,21,Arunachal Pradesh,56,Stormy,Autumn,Tea
+48,20,Assam,47,Rainy,Autumn,Sugarcane
+59,26,Manipur,32,Stormy,Autumn,Rice
+54,22,Nagaland,52,Stormy,Monsoon,Ginger
+,23,Odisha,,Cloudy,Winter,Rice
+76,28,Punjab,48,Rainy,Monsoon,Cotton
+55,28,Nagaland,43,Sunny,Autumn,Ginger
+,25,Bihar,60,Stormy,Monsoon,Wheat
+,37,Chhattisgarh,34,Rainy,Spring,Maize
+62,19,Kerala,,Rainy,Winter,Coconut
+53,31,Karnataka,40,Cloudy,Summer,Soybean
+,34,Chhattisgarh,46,Sunny,Spring,Maize
+44,27,Andhra Pradesh,70,Stormy,Summer,Paddy
+62,39,Uttar Pradesh,,Cloudy,Spring,Maize
+65,29,Bihar,41,Rainy,Spring,Pulses
+,23,Jharkhand,53,Sunny,Monsoon,Rice
+72,31,Jharkhand,33,Rainy,Spring,Forest
+,28,Nagaland,63,Cloudy,Autumn,Oilseeds
+,20,Bihar,45,Cloudy,Autumn,Pulses
+62,39,Tamil Nadu,55,Sunny,Spring,Groundnut
+70,20,Odisha,33,Rainy,Autumn,Rice
+61,20,Andhra Pradesh,46,Rainy,Winter,Mango
+77,32,Uttar Pradesh,57,Sunny,Summer,Sugarcane
+63,33,Mizoram,39,Sunny,Summer,Pulses
+,14,Nagaland,39,Sunny,Winter,Ginger
+74,32,Maharashtra,66,Sunny,Spring,Sugarcane
+57,33,Gujarat,63,Cloudy,Summer,Tobacco
+58,32,West Bengal,61,Sunny,Monsoon,Mustard
+59,13,Assam,32,Cloudy,Winter,Tea
+48,12,Karnataka,52,Rainy,Winter,Sugarcane
+67,15,Karnataka,42,Sunny,Winter,Soybean
+43,27,Meghalaya,50,Stormy,Summer,Rice
+,30,Gujarat,37,Rainy,Autumn,Groundnut
+,24,Bihar,61,Sunny,Monsoon,Wheat
+,35,Karnataka,43,Rainy,Summer,Soybean
+80,28,Manipur,38,Stormy,Autumn,Pineapple
+49,12,Mizoram,39,Stormy,Winter,Rice
+73,33,Kerala,,Cloudy,Spring,Rubber
+49,21,Andhra Pradesh,46,Rainy,Autumn,Mango
+43,23,Rajasthan,,Stormy,Monsoon,Bajra
+,24,Odisha,69,Cloudy,Winter,Sugarcane
+62,29,Rajasthan,59,Cloudy,Spring,Barley
+48,33,Uttar Pradesh,52,Sunny,Spring,Mustard
+,41,Jharkhand,42,Sunny,Spring,Pulses
+55,28,Telangana,58,Rainy,Monsoon,Cotton
+53,20,Andhra Pradesh,65,Sunny,Winter,Groundnut
+49,42,Nagaland,30,Stormy,Spring,Ginger
+54,30,Haryana,53,Rainy,Summer,Wheat
+78,25,Gujarat,67,Stormy,Winter,Groundnut
+66,17,Kerala,55,Rainy,Winter,Coconut
+46,24,Mizoram,40,Sunny,Monsoon,Pulses
+,32,Jharkhand,68,Stormy,Spring,Pulses
+67,25,Uttar Pradesh,52,Rainy,Winter,Maize
+51,21,Andhra Pradesh,69,Stormy,Autumn,Paddy
+66,23,Assam,46,Stormy,Autumn,Sugarcane
+76,20,Manipur,,Rainy,Autumn,Pulses
+54,22,West Bengal,49,Sunny,Winter,Rice
+70,23,Rajasthan,48,Sunny,Monsoon,Bajra
+63,19,Punjab,,Cloudy,Winter,Gram
+57,31,Assam,66,Rainy,Monsoon,Sugarcane
+66,27,Tripura,70,Cloudy,Summer,Pulses
+74,29,Mizoram,65,Stormy,Summer,Rice
+44,23,Manipur,66,Cloudy,Autumn,Pulses
+52,29,Sikkim,35,Rainy,Autumn,Barley
+71,26,Odisha,68,Stormy,Monsoon,Sugarcane
+80,31,Madhya Pradesh,34,Cloudy,Monsoon,Wheat
+77,23,Nagaland,48,Rainy,Monsoon,Ginger
+67,30,Karnataka,48,Sunny,Autumn,Soybean
+,31,Rajasthan,50,Cloudy,Summer,Barley
+,30,Sikkim,34,Stormy,Spring,Ginger
+75,29,Assam,64,Cloudy,Spring,Rice
+53,18,Haryana,33,Cloudy,Winter,Bajra
+56,42,Maharashtra,41,Rainy,Spring,Sugarcane
+,25,Sikkim,33,Sunny,Monsoon,Cardamom
+67,30,Nagaland,,Sunny,Monsoon,Oilseeds
+53,29,Madhya Pradesh,52,Cloudy,Spring,Soybean
+,15,Assam,70,Sunny,Winter,Tea
+42,30,Punjab,48,Cloudy,Monsoon,Wheat
+40,28,Sikkim,32,Rainy,Summer,Ginger
+76,24,Uttar Pradesh,43,Cloudy,Monsoon,Mustard
+55,21,Manipur,,Sunny,Winter,Pineapple
+48,26,Haryana,68,Sunny,Autumn,Bajra
+71,25,Haryana,35,Sunny,Monsoon,Bajra
+,25,Odisha,36,Sunny,Autumn,Sugarcane
+60,37,Uttar Pradesh,,Cloudy,Spring,Sugarcane
+56,31,Sikkim,65,Rainy,Monsoon,Barley
+46,20,Manipur,55,Stormy,Winter,Rice
+74,32,West Bengal,38,Sunny,Summer,Maize
+75,12,Arunachal Pradesh,30,Sunny,Winter,Oilseeds
+42,34,West Bengal,70,Sunny,Spring,Maize
+40,30,West Bengal,67,Sunny,Spring,Maize
+60,28,Telangana,38,Rainy,Autumn,Mango
+59,38,Manipur,51,Sunny,Spring,Pulses
+48,36,Jharkhand,33,Stormy,Spring,Rice
+,32,Tripura,47,Stormy,Spring,Rice
+,36,Uttar Pradesh,67,Sunny,Spring,Sugarcane
+59,14,Madhya Pradesh,33,Sunny,Winter,Soybean
+,22,Haryana,59,Rainy,Autumn,Gram
+,25,Nagaland,66,Cloudy,Summer,Rice
+49,32,Kerala,56,Cloudy,Summer,Rubber
+65,28,Punjab,,Stormy,Monsoon,Cotton
+56,29,Haryana,48,Rainy,Monsoon,Bajra
+64,22,Arunachal Pradesh,41,Rainy,Monsoon,Tea
+,30,Tamil Nadu,65,Stormy,Summer,Tea
+46,29,Sikkim,61,Stormy,Autumn,Cardamom
+68,29,Mizoram,32,Sunny,Summer,Bamboo
+61,28,Uttar Pradesh,45,Cloudy,Spring,Maize
+46,28,Chhattisgarh,59,Stormy,Summer,Turmeric
+,34,Tripura,53,Rainy,Summer,Rice
+64,33,Manipur,56,Rainy,Summer,Pineapple
+50,29,Uttar Pradesh,58,Stormy,Monsoon,Mustard
+80,30,Karnataka,70,Sunny,Autumn,Sugarcane
+41,34,Karnataka,34,Sunny,Spring,Sugarcane
+54,41,Andhra Pradesh,32,Stormy,Spring,Paddy
+,37,Bihar,47,Stormy,Spring,Pulses
+46,28,Haryana,,Cloudy,Summer,Bajra
+47,25,Nagaland,39,Sunny,Autumn,Oilseeds
+,20,Madhya Pradesh,30,Sunny,Winter,Soybean
+57,14,Gujarat,36,Rainy,Winter,Cotton
+45,34,Assam,70,Cloudy,Spring,Tea
+75,32,Telangana,36,Rainy,Summer,Cotton
+65,24,Sikkim,45,Sunny,Autumn,Ginger
+49,20,Sikkim,56,Rainy,Winter,Ginger
+,26,Gujarat,66,Cloudy,Summer,Groundnut
+,15,Chhattisgarh,58,Cloudy,Winter,Rice
+47,18,Meghalaya,,Stormy,Winter,Rice
+74,27,Meghalaya,,Stormy,Autumn,Apple
+49,32,Maharashtra,52,Stormy,Summer,Grapes
+40,32,Tamil Nadu,59,Rainy,Summer,Tea
+75,32,Maharashtra,42,Rainy,Spring,Cotton
+,22,Rajasthan,37,Stormy,Monsoon,Turmeric
+55,31,Bihar,59,Stormy,Monsoon,Wheat
+44,28,Manipur,69,Stormy,Autumn,Pulses
+,35,Arunachal Pradesh,60,Rainy,Summer,Tea
+78,25,Kerala,41,Cloudy,Autumn,Rubber
+68,28,Kerala,,Stormy,Autumn,Rubber
+60,14,Arunachal Pradesh,53,Rainy,Winter,Tea
+,29,Assam,38,Sunny,Summer,Sugarcane
+62,13,Assam,48,Rainy,Winter,Rice
+40,23,Gujarat,45,Rainy,Autumn,Tobacco
+52,28,Chhattisgarh,45,Rainy,Summer,Turmeric
+41,18,Tamil Nadu,34,Sunny,Winter,Cotton
+68,24,Bihar,34,Stormy,Winter,Wheat
+45,16,Andhra Pradesh,44,Cloudy,Winter,Mango
+,32,Odisha,39,Stormy,Summer,Sugarcane
+74,34,Manipur,,Sunny,Spring,Pulses
+46,29,Haryana,64,Rainy,Autumn,Bajra
+46,29,West Bengal,63,Cloudy,Monsoon,Maize
+,24,Kerala,32,Stormy,Monsoon,Tea
+61,18,Meghalaya,49,Rainy,Winter,Rice
+63,13,Karnataka,,Stormy,Winter,Jowar
+55,26,Sikkim,49,Stormy,Monsoon,Barley
+,42,Odisha,31,Rainy,Spring,Pulses
+,27,Sikkim,,Cloudy,Monsoon,Ginger
+,35,Madhya Pradesh,63,Stormy,Spring,Wheat
+73,22,Chhattisgarh,40,Sunny,Autumn,Maize
+69,40,Maharashtra,63,Stormy,Spring,Cotton
+68,23,Nagaland,66,Rainy,Winter,Rice
+59,30,Karnataka,41,Sunny,Summer,Sugarcane
+67,29,Telangana,,Sunny,Autumn,Cotton
+79,13,Karnataka,65,Rainy,Winter,Sugarcane
+61,27,Assam,51,Cloudy,Summer,Tea
+51,26,Sikkim,,Sunny,Summer,Cardamom
+77,23,Rajasthan,66,Stormy,Autumn,Barley
+59,22,Kerala,60,Stormy,Autumn,Coconut
+55,21,Andhra Pradesh,48,Stormy,Autumn,Groundnut
+,32,Nagaland,53,Stormy,Monsoon,Rice
+41,20,Rajasthan,58,Sunny,Autumn,Bajra
+40,21,Andhra Pradesh,59,Cloudy,Winter,Paddy
+75,34,Karnataka,,Stormy,Summer,Sugarcane
+64,27,West Bengal,51,Stormy,Autumn,Mustard
+,20,Punjab,48,Rainy,Autumn,Cotton
+78,29,Madhya Pradesh,41,Stormy,Monsoon,Wheat
+61,35,Odisha,39,Stormy,Summer,Pulses
+46,18,Telangana,64,Rainy,Winter,Mango
+51,25,Uttar Pradesh,31,Rainy,Summer,Mustard
+73,21,Nagaland,,Stormy,Autumn,Ginger
+49,16,Sikkim,46,Cloudy,Winter,Barley
+78,24,Arunachal Pradesh,49,Sunny,Autumn,Oilseeds
+,23,Andhra Pradesh,50,Cloudy,Monsoon,Groundnut
+78,27,Meghalaya,61,Stormy,Summer,Apple
+67,22,Kerala,44,Stormy,Winter,Coconut
+,22,Tamil Nadu,54,Cloudy,Autumn,Cotton
+61,12,Punjab,39,Cloudy,Winter,Wheat
+46,28,Arunachal Pradesh,56,Sunny,Autumn,Oilseeds
+63,26,Manipur,48,Cloudy,Autumn,Pineapple
+48,21,Bihar,,Rainy,Winter,Pulses
+73,32,Punjab,54,Rainy,Monsoon,Cotton
+41,23,Haryana,37,Rainy,Monsoon,Gram
+61,35,Tripura,30,Sunny,Summer,Rubber
+42,19,Rajasthan,38,Stormy,Winter,Barley
+50,21,Tamil Nadu,60,Stormy,Autumn,Groundnut
+75,36,Rajasthan,,Cloudy,Spring,Turmeric
+75,23,Madhya Pradesh,35,Sunny,Autumn,Jowar
+78,26,Assam,43,Sunny,Autumn,Tea
+76,34,Odisha,39,Stormy,Spring,Rice
+,28,Madhya Pradesh,48,Cloudy,Summer,Jowar
+41,28,Punjab,41,Rainy,Spring,Cotton
+40,17,Arunachal Pradesh,61,Cloudy,Winter,Oilseeds
+58,17,Madhya Pradesh,36,Sunny,Winter,Wheat
+,25,Mizoram,53,Stormy,Winter,Bamboo
+61,22,Andhra Pradesh,44,Cloudy,Winter,Groundnut
+58,32,Gujarat,34,Rainy,Spring,Cotton
+67,31,Arunachal Pradesh,59,Rainy,Summer,Oilseeds
+58,26,West Bengal,32,Cloudy,Monsoon,Maize
+46,33,Bihar,57,Cloudy,Summer,Maize
+,23,Manipur,49,Sunny,Monsoon,Pulses
+67,23,Rajasthan,40,Cloudy,Monsoon,Barley
+77,31,Rajasthan,50,Cloudy,Spring,Bajra
+69,26,Chhattisgarh,37,Rainy,Autumn,Rice
+80,15,Tamil Nadu,54,Sunny,Winter,Tea
+,38,West Bengal,58,Stormy,Spring,Maize
+64,30,Chhattisgarh,61,Sunny,Monsoon,Turmeric
+40,30,Odisha,70,Cloudy,Summer,Pulses
+48,31,Karnataka,,Cloudy,Summer,Soybean
+,21,Karnataka,36,Rainy,Autumn,Soybean
+64,16,Jharkhand,37,Rainy,Winter,Forest
+74,26,Tamil Nadu,68,Rainy,Autumn,Tea
+47,31,Gujarat,38,Cloudy,Monsoon,Groundnut
+46,22,Gujarat,58,Rainy,Monsoon,Groundnut
+54,42,Chhattisgarh,66,Stormy,Spring,Turmeric
+54,25,Chhattisgarh,36,Sunny,Summer,Turmeric
+58,32,West Bengal,60,Rainy,Spring,Rice
+66,16,Kerala,45,Sunny,Winter,Rubber
+41,30,Manipur,57,Rainy,Autumn,Rice
+74,27,Gujarat,69,Rainy,Autumn,Groundnut
+57,28,Jharkhand,32,Stormy,Autumn,Pulses
+77,39,Punjab,53,Sunny,Spring,Wheat
+,28,Arunachal Pradesh,60,Stormy,Summer,Oilseeds
