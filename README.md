@@ -1,4 +1,4 @@
-# Project Name
+# AIGrow
 
 ## Overview
 This project focuses on creating a cost-effective platform using locational data and artificial intelligence to empower farmers with real-time, location-specific agricultural advice and emergency alerts. This solution is designed to enhance decision-making in farming by providing precise, data-driven insights tailored to the unique conditions of each farm.
