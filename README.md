@@ -18,7 +18,23 @@ Here’s a sample of our processed data:
 
 {
         "Prompt": "How will climate change with increased rainfall affect apple cultivation?",
-        "Response": "Climate change with increased rainfall will have a complex and multifaceted impact on apple cultivation, with both potential benefits and drawbacks:\n\n**Potential Benefits:**\n\n* **Increased water availability:** Increased rainfall can provide more water for apple trees, reducing the need for irrigation and potentially leading to higher yields.\n* **Enhanced soil fertility:** Rainfall can help replenish soil nutrients and improve soil structure, creating a more favorable growing environment for apples.\n* **Reduced drought stress:** Increased rainfall can mitigate drought stress, which can significantly affect apple production.\n\n**Potential Drawbacks:**\n\n* **Increased risk of flooding:** Excessive rainfall can lead to flooding, damaging apple trees and orchards, and potentially hindering fruit development.\n* **Increased risk of diseases and pests:** Increased humidity and warmer temperatures associated with increased rainfall can create a more favorable environment for fungal diseases and insect pests, leading to crop losses.\n* **Soil erosion:** Heavy rainfall can lead to soil erosion, reducing soil fertility and damaging apple tree root systems.\n* **Changes in fruit quality:** Increased rainfall can affect the size, color, and flavor of apples, potentially impacting market value.\n* **Changes in flowering and fruiting times:** Shifts in rainfall patterns can affect the timing of apple flowering and fruit development, potentially disrupting pollination and harvesting.\n\n**Adaptation Strategies:**\n\n* **Improved drainage systems:** Implementing effective drainage systems can mitigate the risk of flooding and waterlogging.\n* **Disease and pest management:** Utilizing integrated pest management practices and disease-resistant varieties can help minimize losses due to pests and diseases.\n* **Water management techniques:** Implementing efficient irrigation systems and water conservation strategies can help optimize water use and reduce the impact of excessive rainfall.\n* **Variety selection:** Choosing apple varieties that are more resilient to climate change impacts, such as drought-tolerant or disease-resistant varieties, can improve orchard sustainability.\n* **Climate-smart agriculture practices:** Adopting climate-smart agricultural practices, such as agroforestry and cover cropping, can help enhance soil health and resilience to climate change.\n\n**Overall, the impact of increased rainfall on apple cultivation will depend on the specific region, the magnitude of rainfall increase, and the adaptability of growers to these changes. By implementing appropriate adaptation strategies, apple producers can mitigate the negative impacts and potentially even benefit from the increased rainfall.**",
+        "Response": "Climate change with increased rainfall will have a complex and multifaceted impact on apple cultivation, with both potential benefits and drawbacks:\
+        **Potential Benefits:**\
+        **Increased water availability:** Increased rainfall can provide more water for apple trees, reducing the need for irrigation and potentially leading to higher yields.\
+        **Enhanced soil fertility:** Rainfall can help replenish soil nutrients and improve soil structure, creating a more favorable growing environment for apples.\
+        **Reduced drought stress:** Increased rainfall can mitigate drought stress, which can significantly affect apple production.\n\n**Potential Drawbacks:**\
+        **Increased risk of flooding:** Excessive rainfall can lead to flooding, damaging apple trees and orchards, and potentially hindering fruit development.\
+        **Increased risk of diseases and pests:** Increased humidity and warmer temperatures associated with increased rainfall can create a more favorable environment for fungal diseases and insect pests, leading to crop losses.\
+        **Soil erosion:** Heavy rainfall can lead to soil erosion, reducing soil fertility and damaging apple tree root systems.\
+        **Changes in fruit quality:** Increased rainfall can affect the size, color, and flavor of apples, potentially impacting market value.\
+        **Changes in flowering and fruiting times:** Shifts in rainfall patterns can affect the timing of apple flowering and fruit development, potentially disrupting pollination and harvesting.\
+        **Adaptation Strategies:**\
+        **Improved drainage systems:** Implementing effective drainage systems can mitigate the risk of flooding and waterlogging.\
+        **Disease and pest management:** Utilizing integrated pest management practices and disease-resistant varieties can help minimize losses due to pests and diseases.\
+        **Water management techniques:** Implementing efficient irrigation systems and water conservation strategies can help optimize water use and reduce the impact of excessive rainfall.\
+        **Variety selection:** Choosing apple varieties that are more resilient to climate change impacts, such as drought-tolerant or disease-resistant varieties, can improve orchard sustainability.\
+        **Climate-smart agriculture practices:** Adopting climate-smart agricultural practices, such as agroforestry and cover cropping, can help enhance soil health and resilience to climate change.\
+        *Overall, the impact of increased rainfall on apple cultivation will depend on the specific region, the magnitude of rainfall increase, and the adaptability of growers to these changes. By implementing appropriate adaptation strategies, apple producers can mitigate the negative impacts and potentially even benefit from the increased rainfall.**",
         "Soil Moisture": 59,
         "Temperature": 34,
         "Location": "Madhya Pradesh",
@@ -26,7 +42,7 @@ Here’s a sample of our processed data:
         "Weather": "Rainy",
         "Season": "Summer",
         "Previous Harvested Crop": "Wheat"
-    }
+    }\
 Currently the file only contains 10 data frames because we have removed the other while commiting for now as for hackathon purpose, also the api_keys are removed obviously for privacy purpose
 
 ### Model Used
