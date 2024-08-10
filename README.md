@@ -27,7 +27,7 @@ Here’s a sample of our processed data:
         "Season": "Summer",
         "Previous Harvested Crop": "Wheat"
     }
-
+Currently the file only contains 10 data frames because we have removed the other while commiting for now as for hackathon purpose, also the api_keys are removed obviously for privacy purpose
 
 ### Model Used
 - **Type**: We are using a fine-tuned LLM model (Phi-2) using LoRA fine-tuning technique.
